@@ -1,0 +1,22 @@
+body{
+    background-color:darkseagreen;
+}
+
+#container{
+    text-align:center;
+}
+
+.button{
+    border-radius: 30px;
+    background-color:blanchedalmond;
+    border: none; 
+}
+
+.button:hover{
+    background-color:gray;
+    cursor:pointer;
+}
+
+ul{
+    list-style-type: none;
+}
